@@ -15,3 +15,7 @@ To test your configuration simply run the following command
 ```
 nix run .
 ```
+
+## Help
+
+https://gist.github.com/siph/288b7c6b5f68a1902d28aebc95fde4c5
